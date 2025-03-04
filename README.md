@@ -37,8 +37,6 @@ I'm a passionate Data Science professional currently pursuing my Master's in Dat
 ---
 
 ## 👨‍💻 Professional Experience
-- **Software Developer R&D Intern** at Okkam SRL (Feb 2025 – Present)  
-  *Designing and developing knowledge graphs and implementing AI-based data management solutions.*
 
 - **Data Science Intern** at Media Asset SPA (Jul 2024 – Nov 2024)  
   *Analyzed performance metrics, built predictive models, and created dynamic visualizations to drive business insights.*
